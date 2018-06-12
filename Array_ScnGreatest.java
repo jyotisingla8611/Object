@@ -1,3 +1,4 @@
+/* Write a program to take an array of 10 numbers as input from the user and find the second largest element in the array.*/
 package Assignment5;
 import java.util.Scanner;
 public class Array_ScnGreatest {
