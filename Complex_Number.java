@@ -1,5 +1,9 @@
-package Assignment5;
+ /*Create a class Complex with real and imaginary parts as it�s data members.  Create a member function called Display()
+ to display the complex number properly. 
+Example : real part = 2 and imaginary part = 5, then the function should show 2+5i.*/
 
+
+package Assignment5;
 import java.util.Scanner;
 
 public class Complex_Number {
