@@ -1,3 +1,6 @@
+/*Create a class Rectangle with length and breadth as it�s data members. Create a member function called CalculateArea() 
+which displays the area of the rectangle object.*/
+
 package Assignment5;
 
 import java.util.Scanner;
